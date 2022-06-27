@@ -4,6 +4,7 @@
 <h1>QSL</h1>
 </center>
 QuickShortcutLanguage is a language for making shortcuts.
+<h1>FAQ</h1>
 
 Why did I make this?
 =
@@ -18,5 +19,6 @@ What does QSL Stand for?
 =
 QSL Stands for QuickShortcutLanguage.
 
-Thanks for reading!
+What does it compile to?
 =
+QSL compiles to C++, Batch (with batver.bat), and later maybe even C.
