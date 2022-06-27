@@ -1,5 +1,5 @@
 <center>
-<img src="2.png" width=250 height=auto>
+<img src="icon.png" width=250 height=auto>
 <br>
 <h1>QSL</h1>
 </center>
