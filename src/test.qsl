@@ -1,0 +1,17 @@
+/*
+
+    QSL Example file
+
+*/
+
+main {
+    start notepad // This will open notepad.exe
+    end cmd // This will kill the process cmd.exe   
+    call function https://www.example.com/
+}
+function {
+    start chrome (arg)
+}
+(var, create) {
+    var hello_world == 'Hello, World!'
+}

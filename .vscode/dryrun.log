@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'x:/gitrepos/QSL'
+make: Leaving directory 'x:/gitrepos/QSL'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

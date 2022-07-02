@@ -1,0 +1,1 @@
+# QSL FOR VSCODE IS IN A DIFFERENT REPOSITORY. GO TO fgclue/qsl-for-vscode TO GET IT.
